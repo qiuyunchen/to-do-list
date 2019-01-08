@@ -1,0 +1,26 @@
+.container-2-col {
+    display: flex;
+}
+.half-width {
+    max-width: 50%;
+}
+.light-green {
+    background-color: rgb(222, 241, 222);
+}
+.badge-pill {
+    font-size: 14pt;
+}
+.badge-pill:hover {
+    color: black;
+}
+li:hover {
+    font-weight: 800;
+}
+.to-do-default {
+    text-align: center;
+    color: lightgrey;
+    font-size: 29pt;
+}
+li {
+    font-size: 20pt;
+}
